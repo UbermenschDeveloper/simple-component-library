@@ -1,5 +1,6 @@
 .simple-form-group {
   margin-bottom: 1rem;
+  color: red;
 }
 
 .simple-text-label {
@@ -12,11 +13,11 @@
   margin-bottom: 0.5rem;
   font-size: 16px;
   font-weight: 400;
-  color: rgb(33, 37, 41);
+  color: red;
 }
 
 .simple-form-text {
-  color: #6c757d !important;
+  color: red;
   display: block;
   margin-top: 0.25rem;
   font-size: 80%;
